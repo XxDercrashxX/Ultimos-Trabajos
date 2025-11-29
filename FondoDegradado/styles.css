@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #f3e5c9, #49b7df);
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    background-color: white;
+    width: 600px;
+    max-width: 90%;
+    padding: 40px;
+    border-radius: 15px;
+}

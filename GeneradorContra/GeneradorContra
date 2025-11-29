@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Contraseñas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="card">
+      <h2>Generar Contraseña Aleatoria</h2>
+      <button id="btn-generar">Generar</button>
+      <p id="resultado">Contraseña:</p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
