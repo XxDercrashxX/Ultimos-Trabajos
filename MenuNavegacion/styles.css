@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #333; 
+    padding: 0 20px;
+}
+
+#nav-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+#nav-menu li {
+    
+    line-height: 50px; 
+}
+
+#nav-menu a {
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none; 
+    display: block; 
+}
+
+#nav-menu a:hover {
+    background-color: #c3c0c045;
+    color: #00aaff; 
+}
